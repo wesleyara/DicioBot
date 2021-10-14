@@ -1,0 +1,21 @@
+{
+  "name": "bot-dicionario",
+  "version": "1.0.0",
+  "description": "bot pesquisador de significados de palavras, se assemelhando a um dicionário.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "dicionário",
+    "automação",
+    "significados."
+  ],
+  "author": "Wesley Araújo",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
