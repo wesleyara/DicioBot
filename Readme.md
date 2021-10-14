@@ -5,11 +5,11 @@ Com desejo de praticar a utilização da automação de tarefas e scraping veio 
 
 ## O que ele faz?
 Esse bot utiliza da biblioteca Puppeteer (Veja: https://github.com/puppeteer/puppeteer) para acessar um site a partir de um navegador, fazendo uso também do Node.js para utilização do JavaScript fora do navegador. Com base nisso eu o utilizei em cima da mesma ideia de outro repositório, só que agora para a busca de palavras no dicionário.
-
+<div style="display: inline_block"><br>
 <img width="40" heigth="30" alt="Wesley_JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 
 <img width="40" heigth="30" alt="Wesley_NODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
+<div>
 
 ## Instalação:
 Ao copiar o repositório, tem que ir no terminal do VS Code com a pasta aberta e digitar os seguintes comandos para realizar a instalação:
